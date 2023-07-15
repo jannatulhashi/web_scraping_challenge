@@ -1,6 +1,8 @@
 # web_scraping_challenge
 Developing a comprehensive web-scraping and data analysis project that involves extracting mars news article information and analyzing mars weather data from a table.
 
+![](Images/mars_image.png)]
+
 ## Background
 Having acquired the necessary skills in identifying HTML elements, extracting information using automated browsing and HTML parsing, and scraping various data types such as HTML tables and recurring elements like news articles, I am now well-prepared to undertake a comprehensive web-scraping and data analysis project.
 Throughout this challenge, I will continue to strengthen my core skills in  collecting data, organizing and storing data, analyzing data, and then visually communicating my insights.
@@ -53,6 +55,7 @@ To identify which elements to scrape, I want to inspect the page by using Chrome
 - **pressure:** The atmospheric pressure at Curiosity's location
 
 4: I will examine the data types that are currently associated with each column. If necessary, I will cast (or convert) the data to the appropriate datetime, int, or float data types.
+
 **Hint**
 I can use the Pandas **astype** and **to_datetime** methods to accomplish this task.
 
