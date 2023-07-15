@@ -16,6 +16,7 @@ I will open the Jupyter Notebook in the file named ***part_1_mars_news.ipynb.***
 I will work on this code as I follow the steps below to scrape the Mars News website.
 
 1: I will use automated browsing to visit the Mars news [(https://static.bc-edx.com/data/web/mars_news/index.html)]. Inspect the page to identify which elements to scrape.
+
 **Hint**
 To identify which elements to scrape, I want to inspect the page by using Chrome DevTools.
 
@@ -24,7 +25,7 @@ To identify which elements to scrape, I want to inspect the page by using Chrome
 3:Extract the titles and preview text of the news articles that I scraped. Store the scraping results in Python data structures as follows:
 - I will store each title-and-preview pair in a Python dictionary and, give each dictionary two keys: **title** and **preview**. An example is the following:
 
-- ![](Images/web_scrapping_example.png)
+ ![](Images/web_scrapping_example.png)
 
 - Store all the dictionaries in a Python list.
 - Print the list in the notebook.
@@ -36,6 +37,7 @@ I will open the Jupyter Notebook in the file named ***part_2_mars_weather.ipynb.
 I will work on this code as I follow the steps below to scrape and analyze Mars weather data. 
 
 1: I will use automated browsing to visit the Mars Temperature Data Site [(https://static.bc-edx.com/data/web/mars_facts/temperature.html)]. Inspect the page to identify which elements to scrape.
+
 **Hint**
 To identify which elements to scrape, I want to inspect the page by using Chrome DevTools to discover whether the table contains usable classes.
 
