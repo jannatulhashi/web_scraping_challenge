@@ -1,7 +1,7 @@
 # web_scraping_challenge
 Developing a comprehensive web-scraping and data analysis project that involves extracting mars news article information and analyzing mars weather data from a table.
 
-![](Images/mars_image.png)]
+![](Images/mars_image.png)
 
 ## Background
 Having acquired the necessary skills in identifying HTML elements, extracting information using automated browsing and HTML parsing, and scraping various data types such as HTML tables and recurring elements like news articles, I am now well-prepared to undertake a comprehensive web-scraping and data analysis project.
